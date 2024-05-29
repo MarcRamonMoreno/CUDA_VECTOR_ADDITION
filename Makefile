@@ -6,7 +6,7 @@ LDFLAGS = -L/usr/local/cuda-10.2/lib64 -lcudart
 # Makefile settings - Can be customized.
 APPNAME = vecAdd
 EXT = .cu
-SRCDIR = /home/marc/Escritorio/BSC_Training_Intro_to_CUDA/cuda_2024/benchmarks/vecAdd/src/cuda/local
+SRCDIR = /home/marc/Escritorio/BSC_Training_Intro_to_CUDA/cuda_2024/benchmarks/vecAdd/src/cuda/local #Please add the path of your .cu file
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
