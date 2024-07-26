@@ -1,6 +1,5 @@
 Certainly! Here's a sample `README.md` file for your repository:
 
-```markdown
 # Vector Addition with CUDA
 
 This repository contains a simple CUDA program that performs vector addition. The program reads two vectors from binary files, adds them element-wise using a CUDA kernel, and outputs the result.
